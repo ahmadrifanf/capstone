@@ -180,7 +180,7 @@ st.markdown("Pengadaan pelatihan bagi pelaku usaha _e-commerce_ skala mikro dapa
     
 st.markdown('''---''')
 st.subheader("Referensi")
-st.text("BPS. 2021. Statistik e-Commerce Tahun 2021. Jakarta.")
-st.text("iPrice. 2022. Find Out E-commerce Competition in Indonesia. https://iprice.co.id/insights/mapofecommerce/en/. diakses 12 Oktober 2022 pukul 01.24 WIB.")
-st.text("OECD. 2022. Electronic Commerce. https://stats.oecd.org/glossary/detail.asp?ID=4721. diakses 12 Oktober 2022 pukul 01.25 WIB")
-st.text("Redseer. 2022. Consumer Internet in Indonesia. https://redseer.com/reports/consumer-internet-in-indonesia/. diakses 18 Oktober 2022 pukul 00.04 WIB")
+st.markdown("_BPS. 2021. Statistik e-Commerce Tahun 2021. Jakarta._")
+st.markdown("_iPrice. 2022. Find Out E-commerce Competition in Indonesia. https://iprice.co.id/insights/mapofecommerce/en/. diakses 12 Oktober 2022 pukul 01.24 WIB._")
+st.markdown("_OECD. 2022. Electronic Commerce. https://stats.oecd.org/glossary/detail.asp?ID=4721. diakses 12 Oktober 2022 pukul 01.25 WIB._")
+st.markdown("_Redseer. 2022. Consumer Internet in Indonesia. https://redseer.com/reports/consumer-internet-in-indonesia/. diakses 18 Oktober 2022 pukul 00.04 WIB._")
