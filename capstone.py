@@ -109,7 +109,7 @@ st.markdown("2. Nilai pendapatan total sebagian besar _e-commerce_ masih di bawa
 st.markdown("3. Metode pembayaran yang paling sering digunakan yaitu _Cash on Delivery_ (COD) atau pembayaran secara tunai")
 st.markdown("4. Mayoritas pemilik/penanggung jawab _e-commerce_ berusia 35-44 tahun")
 st.markdown("5. 75,36 persen pemilik/penanggung jawab _e-commerce_ berpendidikan SMA/SMK sederajat ke bawah")
-st.markdown("Jika kita merujuk pada Undang- Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil dan Menengah (UMKM) maka dapat dikatakan bahwa e-commerce Indonesia masih didominasi oleh usaha mikro. Oleh sebab itu, untuk mengatasi keluhan penurunan pendapatan pelaku usaha _e-commerce_ harus diterakan kebijakan-kebijakan yang sangat mendukung keberlangsungan usaha mikro. Umumnya, kendala utama dari kegiatan mereka disebabkan oleh karena kurangnya permintaan atas barang dan jasa selama pandemi (48,74%).")
+st.markdown("Jika kita merujuk pada Undang- Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil dan Menengah (UMKM) maka dapat dikatakan bahwa e-commerce Indonesia masih didominasi oleh usaha mikro, yaitu usaha dengan pendapatan kurang dari 300 juta setahun. Selain itu, kendala utama dari kegiatan mereka sebagian besar disebabkan oleh karena kurangnya permintaan atas barang dan jasa selama pandemi (48,74%). Sehingga, untuk mengatasi keluhan penurunan pendapatan dari para pelaku usaha _e-commerce_ harus diterakan kebijakan terkait peningkatan strategi pemasaran e-commerce yang sangat mendukung keberlangsungan usaha mikro.")
 st.markdown("")
 
 c3a, c3b = st.columns(2, gap="large")
