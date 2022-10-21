@@ -8,7 +8,7 @@ from matplotlib.patches import ConnectionPatch
 st.set_page_config(layout="wide")
 st.image("banner.jpg")
 
-st.title("Bangkitkan e-Commerce Indonesia")
+st.title("Bangkitkan e-Commerce Indonesia!")
 st.caption("oleh: Ahmad Rifan Ferdiyansyah")
 
 c1a, c1b = st.columns([2,1], gap="large")
